@@ -14,7 +14,7 @@
 - [Видео прохождения теста Selenoid](#signal_strength-Видео-прохождения-теста-Selenoid)
 - [Отчёт в telegram](#signal_strength-Отчёт-в-telegram)
 
-## :receipt: Тестовая модель
+## :receipt: Тест кейсы
 
 - Регистрация пользователя
 - Редактирование профиля
